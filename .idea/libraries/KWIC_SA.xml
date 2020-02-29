@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KWIC_SA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Main/KWIC_SA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
